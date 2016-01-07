@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font size="32" family="Berthold Akzidenz Grotesk BE Li" height="57" style="Regular">
+ <Char width="28" offset="2 9" rect="1 1 25 37" code="0"/>
+ <Char width="28" offset="7 10" rect="27 2 11 35" code="1"/>
+ <Char width="28" offset="2 9" rect="39 1 24 36" code="2"/>
+ <Char width="28" offset="2 9" rect="64 1 24 37" code="3"/>
+ <Char width="28" offset="2 10" rect="89 2 25 35" code="4"/>
+ <Char width="28" offset="2 10" rect="115 2 24 36" code="5"/>
+ <Char width="28" offset="2 9" rect="140 1 25 37" code="6"/>
+ <Char width="28" offset="3 10" rect="166 2 22 35" code="7"/>
+ <Char width="28" offset="2 9" rect="189 1 25 37" code="8"/>
+ <Char width="28" offset="1 9" rect="215 1 25 37" code="9"/>
+ <Char width="31" offset="0 10" rect="1 40 32 35" code="A"/>
+ <Char width="32" offset="3 10" rect="34 40 28 35" code="B"/>
+ <Char width="32" offset="2 9" rect="63 39 29 37" code="C"/>
+ <Char width="33" offset="3 10" rect="93 40 29 35" code="D"/>
+ <Char width="29" offset="3 10" rect="123 40 25 35" code="E"/>
+ <Char width="27" offset="3 10" rect="149 40 24 35" code="F"/>
+ <Char width="34" offset="2 9" rect="174 39 29 37" code="G"/>
+ <Char width="35" offset="3 10" rect="204 40 29 35" code="H"/>
+ <Char width="11" offset="3 10" rect="234 40 5 35" code="I"/>
+ <Char width="24" offset="0 10" rect="1 78 21 36" code="J"/>
+ <Char width="32" offset="3 10" rect="23 78 29 35" code="K"/>
+ <Char width="27" offset="3 10" rect="53 78 24 35" code="L"/>
+ <Char width="38" offset="3 10" rect="78 78 32 35" code="M"/>
+ <Char width="34" offset="3 10" rect="111 78 28 35" code="N"/>
+ <Char width="34" offset="2 9" rect="140 77 31 37" code="O"/>
+ <Char width="30" offset="3 10" rect="172 78 27 35" code="P"/>
+ <Char width="34" offset="2 9" rect="200 77 32 37" code="Q"/>
+ <Char width="31" offset="3 10" rect="1 116 28 35" code="R"/>
+ <Char width="29" offset="2 9" rect="30 115 27 37" code="S"/>
+ <Char width="26" offset="0 10" rect="58 116 26 35" code="T"/>
+ <Char width="33" offset="3 10" rect="85 116 27 36" code="U"/>
+ <Char width="29" offset="0 10" rect="113 116 30 35" code="V"/>
+ <Char width="42" offset="0 10" rect="144 116 43 35" code="W"/>
+ <Char width="32" offset="1 10" rect="188 116 31 35" code="X"/>
+ <Char width="30" offset="0 10" rect="220 116 31 35" code="Y"/>
+ <Char width="28" offset="1 10" rect="1 153 27 35" code="Z"/>
+</Font>
